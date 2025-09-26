@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana: Magic Image to Prompt",
+  "description": "An application that uses AI to generate a creative and whimsical text prompt from an uploaded image, inspired by a cute, hand-drawn doodle style.",
+  "requestFramePermissions": []
+}
